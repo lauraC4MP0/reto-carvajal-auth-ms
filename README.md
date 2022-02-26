@@ -1,10 +1,6 @@
 # reto_carvajal_auth_ms
 _Primer microservicio que se encarga de la creación, actualización y almacenamiento de los usuarios de la aplicacion, además en este repositorio se encuentra información general del proyecto (versión preliminar, MER)_
 
-## ¿Qué es ConsulMedic? 📌
-
-_Aplicación web de un sistema de gestión de un consultorio médico desarrollada para el ciclo 4 de Misión TIC 2022._
-
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
@@ -25,6 +21,7 @@ python manage.py runserver
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
+* [PostgreSQL](https://www.postgresql.org/) - Base de datos
 * [Python](https://www.python.org/) - Lenguaje 
 * [Django](https://www.djangoproject.com/) - Framework web 
 * [Heroku](https://www.heroku.com/) - Despliegue
