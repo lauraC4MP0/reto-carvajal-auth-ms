@@ -26,7 +26,7 @@ class UserManager(BaseUserManager):
         return user
         
 class User(AbstractBaseUser, PermissionsMixin):
-    id = models.BigAutoField(primary_key=True)
+    id = models.BigIntegerField('Id',primary_key=True)
     username = models.CharField('Username', max_length = 15, unique=True)
     name = models.CharField('Name', max_length = 30)
     lastname=models.CharField('LastName',max_length=30)
