@@ -25,6 +25,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Python](https://www.python.org/) - Lenguaje 
 * [Django](https://www.djangoproject.com/) - Framework web 
 * [Heroku](https://www.heroku.com/) - Despliegue
+* [Postman](https://www.postman.com) - Pruebas
 
 ## Autor ✒️
 
